@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 # Load dataset with time column
-file_path = r"C:\Users\ADMIN\Desktop\python\mental_health_digital_behavior_time.csv"
+file_path = r"C:\Users\ADMIN\Desktop\python\ADS\mental_health_digital_behavior_time.csv"
 df = pd.read_csv(file_path)
 
 # Select variable
